@@ -62,7 +62,7 @@ portfolio1/
 
 ## 📬 Contact
 
-* **GitHub**: [@vishvajeetmankar](https://github.com/snehalk2312)
+* **GitHub**: [@snehalk2312](https://github.com/snehalk2312)
 * **Portfolio**: [Live Website](https://snehalk2312.github.io/portfolio1/)
 
 ---
